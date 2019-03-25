@@ -133,6 +133,7 @@ zoom.us
 暗黑破坏神III  
 
 ### cli apps
+brew  
 
 ## linux
 zsh  

@@ -134,6 +134,7 @@ zoom.us
 
 ### cli apps
 brew  
+listen script  
 
 ## linux
 zsh  
@@ -166,4 +167,6 @@ Scatter
 
 ## saas
 zendesk - help desk  
+apizza - api online collaboration  
+cooperpress - maillist, publishes weekly email newsletters to audiences  
 
